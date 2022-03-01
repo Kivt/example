@@ -1,2 +1,2 @@
-RECIPIENT;GET;80;https://www.interfax.ru/;{};{};5;1
+RECIPIENT;GET;80;https://russian.rt.com/;{};{};5;1
 SOURCE;https://raw.githubusercontent.com/kivt/example/main/list
