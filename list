@@ -1,2 +1,2 @@
-RECIPIENT;GET;443;google.com;{};{};5;1
-SOURCE;https://raw.githubusercontent.comKivt/example/new/main/list.list
+RECIPIENT;GET;80;https://www.interfax.ru/;{};{};5;1
+SOURCE;https://raw.githubusercontent.comKivt/example/new/main/list
